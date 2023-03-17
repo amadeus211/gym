@@ -1,0 +1,9 @@
+<component name="libraryTable">
+  <library name="GymManagementSystem">
+    <CLASSES>
+      <root url="jar://$PROJECT_DIR$/GymManagementSystemJavaFX/GymManagementSystem/dist/GymManagementSystem.jar!/" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES />
+  </library>
+</component>
